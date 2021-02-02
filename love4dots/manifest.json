@@ -1,0 +1,21 @@
+{
+	"manifest_version": 2,
+	"description" : "Converting a leader(…) to hearts(♡♡♡) in a web page text.",
+	"name": "Love 4 dots",
+	"short_name": "L4D",
+	"version": "0.3.3",
+	"icons": {
+	    "16": "icon16.png",
+	    "48": "icon48.png",
+	    "128": "icon128.png"
+	},
+
+	"permissions": [	],
+	"content_scripts": [
+		{
+		    "matches": ["http://*/*", "https://*/*"],
+
+		    "js": ["l4d.js"]
+		}
+	]
+}

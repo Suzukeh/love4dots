@@ -2,6 +2,13 @@
 Chrome extension to convert leader(…) to hearts(♡♡♡) in a page.
 
 ## クソ雑説明
+Wikipediaの「リーダー(記号)」のページに適用したらこうなる
+
+![image](https://user-images.githubusercontent.com/49985092/106602668-c9d19a00-6509-11eb-8fc8-8d0c028854a0.png)
+
+
+**三点ハート（♡♡♡）***
+
 ### 超概要
 https://twitter.com/suzukeh1/status/1356573997152956416
 

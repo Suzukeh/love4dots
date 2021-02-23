@@ -22,3 +22,9 @@ https://twitter.com/Jack_O_H_Nielse/status/1356175334672982016
 [NIKUECコンバーター](https://github.com/Suzukeh/NIKUEC-Converter)と代わりはない
 
 アイコンはいらすとやから借りました
+
+## 使い方
+
+1. [ストア](https://chrome.google.com/webstore/detail/love-4-dots/dnfedongmigmdfjpddmocehkgjanabid?hl=ja&authuser=0)からchromeに追加する
+1. いい感じのページ開いたうえで拡張機能を有効化する
+1. たぶんいい感じに置換される♡♡♡ (運が悪いと動かない…)
